@@ -10,3 +10,4 @@ $ find . -size xxc -user <user> -group <group> - find all files of xx bytes, own
 $ cat <filename> | grep "<text>" - read from file part containing "<text>"
 $ sort <filename> | uniq -u - sorts data keeping only unique ones
 $ strings <filename> | grep == - finding strings, lines including "=="
+$ base64 --decode <filename> - decode base64 encoded file
