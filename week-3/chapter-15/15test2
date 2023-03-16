@@ -1,0 +1,80 @@
+total 272
+-rw-rw-r--. 1 centos centos 131 Mar 13 19:59 13badtest1.sh
+-rw-rw-r--. 1 centos centos 166 Mar 13 20:04 13badtest2.sh
+-rw-rw-r--. 1 centos centos 252 Mar 13 20:53 13badtest3.sh
+-rw-rw-r--. 1 centos centos 139 Mar 13 19:46 13test1.sh
+-rw-rw-r--. 1 centos centos 102 Mar 13 20:40 13test10.sh
+-rw-rw-r--. 1 centos centos 148 Mar 13 20:41 13test11.sh
+-rw-rw-r--. 1 centos centos 109 Mar 13 20:42 13test12.sh
+-rw-rw-r--. 1 centos centos 137 Mar 13 20:43 13test13.sh
+-rw-rw-r--. 1 centos centos 154 Mar 13 20:44 13test14.sh
+-rw-rw-r--. 1 centos centos 247 Mar 13 20:45 13test15.sh
+-rw-rw-r--. 1 centos centos 266 Mar 13 20:46 13test16.sh
+-rw-rw-r--. 1 centos centos 179 Mar 13 20:47 13test17.sh
+-rw-rw-r--. 1 centos centos 193 Mar 13 20:48 13test18.sh
+-rw-rw-r--. 1 centos centos 193 Mar 13 20:50 13test19.sh
+-rw-rw-r--. 1 centos centos 258 Mar 13 19:56 13test1b.sh
+-rw-rw-r--. 1 centos centos 134 Mar 13 20:02 13test2.sh
+-rw-rw-r--. 1 centos centos 195 Mar 13 20:51 13test20.sh
+-rw-rw-r--. 1 centos centos 174 Mar 13 20:52 13test21.sh
+-rw-rw-r--. 1 centos centos 241 Mar 13 20:55 13test22.sh
+-rw-rw-r--. 1 centos centos 157 Mar 13 21:11 13test23.sh
+-rw-rw-r--. 1 centos centos 202 Mar 13 21:15 13test24.sh
+-rw-rw-r--. 1 centos centos 165 Mar 13 21:18 13test25.sh
+-rw-rw-r--. 1 centos centos 143 Mar 14 20:20 13test26.sh
+-rw-rw-r--. 1 centos centos 151 Mar 13 20:05 13test3.sh
+-rw-rw-r--. 1 centos centos 185 Mar 13 20:07 13test4.sh
+-rw-rw-r--. 1 centos centos 119 Mar 13 20:11 13test5.sh
+-rw-rw-r--. 1 centos centos 129 Mar 13 20:13 13test5b.sh
+-rw-rw-r--. 1 centos centos 215 Mar 13 20:28 13test6.sh
+-rw-rw-r--. 1 centos centos 287 Mar 13 20:35 13test7.sh
+-rw-rw-r--. 1 centos centos 108 Mar 13 20:37 13test8.sh
+-rw-rw-r--. 1 centos centos  95 Mar 13 20:39 13test9.sh
+-rw-rw-r--. 1 centos centos  82 Mar 14 20:55 14badtest1.sh
+-rw-rw-r--. 1 centos centos 192 Mar 14 20:27 14test1.sh
+-rw-rw-r--. 1 centos centos 134 Mar 14 20:57 14test10.sh
+-rw-rw-r--. 1 centos centos 108 Mar 14 20:59 14test11.sh
+-rw-rw-r--. 1 centos centos 254 Mar 14 21:01 14test12.sh
+-rw-rw-r--. 1 centos centos 155 Mar 14 21:02 14test13.sh
+-rw-rw-r--. 1 centos centos 143 Mar 14 21:05 14test14.sh
+-rw-rw-r--. 1 centos centos 296 Mar 14 21:06 14test15.sh
+-rw-rw-r--. 1 centos centos 416 Mar 14 21:08 14test16.sh
+-rw-rw-r--. 1 centos centos 482 Mar 14 21:12 14test17.sh
+-rw-rw-r--. 1 centos centos 510 Mar 14 21:14 14test18.sh
+-rw-rw-r--. 1 centos centos 295 Mar 14 21:16 14test19.sh
+-rw-rw-r--. 1 centos centos 168 Mar 14 20:29 14test2.sh
+-rw-rw-r--. 1 centos centos 463 Mar 14 21:18 14test20.sh
+-rw-rw-r--. 1 centos centos 123 Mar 14 21:21 14test21.sh
+-rw-rw-r--. 1 centos centos 146 Mar 14 21:23 14test22.sh
+-rw-rw-r--. 1 centos centos 125 Mar 14 21:25 14test23.sh
+-rw-rw-r--. 1 centos centos 130 Mar 14 21:26 14test24.sh
+-rw-rw-r--. 1 centos centos 183 Mar 14 21:28 14test25.sh
+-rw-rw-r--. 1 centos centos 271 Mar 14 21:29 14test26.sh
+-rw-rw-r--. 1 centos centos 135 Mar 14 21:30 14test27.sh
+-rw-rw-r--. 1 centos centos 177 Mar 14 21:32 14test28.sh
+-rw-rw-r--. 1 centos centos  75 Mar 14 20:31 14test3.sh
+-rw-rw-r--. 1 centos centos 165 Mar 14 20:35 14test4.sh
+-rw-rw-r--. 1 centos centos  79 Mar 14 20:37 14test5.sh
+-rw-rw-r--. 1 centos centos 109 Mar 14 20:40 14test5b.sh
+-rwxrw-r--. 1 centos centos 223 Mar 14 20:44 14test6.sh
+-rw-rw-r--. 1 centos centos 161 Mar 14 20:50 14test7.sh
+-rw-rw-r--. 1 centos centos  89 Mar 14 20:51 14test8.sh
+-rw-rw-r--. 1 centos centos 181 Mar 14 20:52 14test9.sh
+-rw-rw-r--. 1 centos centos   0 Mar 15 15:44 15test2
+-rw-rw-r--. 1 centos centos   1 Mar 15 15:44 15test2.sh
+-rw-rw-r--. 1 centos centos  73 Mar 15 15:39 15testfile
+-rwxrw-r--. 1 centos centos 223 Mar 14 20:46 addem
+lrwxrwxrwx. 1 centos centos  10 Mar 14 20:46 multem -> 14test6.sh
+-rw-rw-r--. 1 centos centos 123 Mar 13 20:19 states
+-rw-rw-r--. 1 centos centos 124 Mar 14 21:33 test
+-rw-rw-r--. 1 centos centos 144 Mar 13 21:11 test23.txt
+drwxrwxr-x. 2 centos centos   6 Mar 13 20:27 testdir
+drwxrwxr-x. 2 centos centos   6 Mar 13 20:27 testdir2
+-rw-rw-r--. 1 centos centos  91 Mar 14 20:18 users.csv
+centos   pts/2        Mar 15 14:52 (dynamic-077-011-087-020.77.11.pool.telefonica.de)
+centos   pts/4        Mar 15 13:41 (77.77.222.24)
+centos   pts/20       Mar 15 14:54 (77.77.213.42)
+centos   pts/21       Mar 15 15:26 (77.77.222.24)
+centos   pts/22       Mar 15 14:56 (109.175.103.224)
+centos   pts/23       Mar 15 15:32 (dynamic-077-011-087-020.77.11.pool.telefonica.de)
+centos   pts/24       Mar 15 15:34 (dynamic-077-011-087-020.77.11.pool.telefonica.de)
